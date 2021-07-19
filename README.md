@@ -8,6 +8,7 @@ There will be a simple donate button on the homepage. On clicking the donate but
 Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount. 🎱🎱
 
 Tech Stacks 👍 :-
+
 Front End :-
 
     Html
